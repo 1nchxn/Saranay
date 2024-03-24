@@ -1,0 +1,411 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Braised Beef Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/img3.png",
+    "category": "salad",
+    "price": "275.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb9",
+    "name": "Japanese Chicken Curry Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/curry.png",
+    "category": "salad",
+    "price": "249.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7c",
+    "name": "Double Bacon Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Double Bacon cheese burger.png",
+    "category": "popular",
+    "price": "230.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7a",
+    "name": "Vanilla Classic Burger",
+    "recipe": "",
+    "image": "/images/recipes/desserts/with choco chips cookie.png",
+    "category": "popular",
+    "price": "160.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee74",
+    "name": "Braised Beef Rice Bowl",
+    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+    "image": "/images/recipes/ricebowls/img3.png",
+    "category": "popular",
+    "price": "275.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee712",
+    "name": "Matcha Tea Latte",
+    "recipe": "",
+    "image": "/images/recipes/drinks/matchatea.png",
+    "category": "popular",
+    "price": "180.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7x",
+    "name": "Double Deluxe Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Double Deluxe.png",
+    "category": "popular",
+    "price": "215.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8c",
+    "name": "Midnight Truffle Chilly Burger",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/desserts/midnight truffle cookie.png",
+    "category": "dessert",
+    "price": 130.0
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9e",
+    "name": "Classic Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Classic Burger.png",
+    "category": "burger",
+    "price": "70.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea6",
+    "name": "Teriyaki Chicken Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/img2.png",
+    "category": "salad",
+    "price": "235.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee89",
+
+    "name": "Vanilla Classic Burger",
+    "recipe": "Choclate Chip Cookies filled with Vanilla Ice Cream and Rolled in Chocolate Chips and Nuts",
+    "image": "/images/recipes/desserts/with choco chips cookie.png",
+    "category": "dessert",
+    "price": "160.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8a",
+    "name": "Vanilla Caramel",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/desserts/vanila caramel.png",
+    "category": "dessert",
+    "price": 130.0
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee96",
+    "name": "Regular Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Regular Cheese burger.png",
+    "category": "burger",
+    "price": "100.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee81",
+    "name": "Pink Drink",
+    "recipe": "",
+    "image": "/images/recipes/drinks/pink drink.png",
+    "category": "offered",
+    "price": "165.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee84",
+    "name": "Avocado Strawberry",
+    "recipe": "We took our signature Avocado Ice Cream and swirled in a ribbon of Strawberry Sorbet made with real strawberries. The tart freshness of the berry pairs beautifully with the Avocado both in looks and taste.",
+    "image": "/images/recipes/desserts/AVOCADO STRAWBERRY.png",
+    "category": "dessert",
+    "price": "130.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea4",
+    "name": "Teriyaki Chicken Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/img1.png",
+    "category": "salad",
+    "price": "235.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea5",
+    "name": "Tonkatsu Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/katsu.png",
+    "category": "salad",
+    "price": "260.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee87",
+    "name": "Strawberry Supreme",
+    "recipe": "Our ode to the classic flavor. A rich Strawberry Ice Cream with more strawberries added in as it spun in the batch freezer, and as it came out of the machine we layered in a Strawberry Sorbet for a bit of brightness to create a full sensory strawberry experience!",
+    "image": "/images/recipes/desserts/strawberry supreme.png",
+    "category": "dessert",
+    "price": "115.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee83",
+    "name": "White Hot Chocolate",
+    "recipe": "",
+    "image": "/images/recipes/drinks/whitehotchoco.png",
+    "category": "offered",
+    "price": "190.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7f",
+    "name": "Portobello Tempura Curry",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/tempura.png",
+    "category": "popular",
+    "price": "275.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea8",
+    "name": "Marinated Beef Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/marinated beef.png",
+    "category": "salad",
+    "price": "210.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeba",
+    "name": "Gyudon Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/GYUDON.png",
+    "category": "salad",
+    "price": "260.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee80",
+    "name": "Deluxe Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Double Deluxe.png",
+    "category": "offered",
+    "price": "150.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee90",
+    "name": "Strawberry Ice Cream Cake",
+    "recipe": "Dessert masterpiece consisting of layers of freshly baked Spice Cake, Sweet Cream Ice Cream and Strawberry Sorbet, topped with crunchy oat streusel and lashings of white chocolate. Take all the layers in one bite, and your senses will be treated to a symphony of flavor!",
+    "image": "/images/recipes/desserts/strawberry ice cream.png",
+    "category": "dessert",
+    "price": "165.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb0",
+    "name": "Pink Drink",
+    "recipe": "Our crisp Strawberry Açaí Refreshers® beverage—with accents of passion fruit and combined with creamy coconutmilk—evokes a fruity and refreshing sip of spring, no matter what time of year.",
+    "image": "/images/recipes/drinks/pink drink.png",
+    "category": "drink",
+    "price": "165.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8d",
+    "name": "Pastillas De Leche",
+    "recipe": "Our tribute to on Tres Leches Cake and the famous Bulacan confection, we soak freshly-baked cake with condensed milk, and layer it with freshly spun Condensed Milk Ice Cream with a hint of dayap zest, and topped with miniature pastillas de leche and drizzled white chocolate.",
+    "image": "/images/recipes/desserts/pastillas de leche.png",
+    "category": "dessert",
+    "price": "155.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8e",
+    "name": "Dark Chocolate Decadence Ice Cream Cake",
+    "recipe": "Made with freshly baked Chocolate Cake, Dark Chocolate Ice Cream loaded with chocolate-covered potato chips, pretzels and caramel popcorn, and topped with nut praline and dark chocolate drizzle! ",
+    "image": "/images/recipes/desserts/DARK CHOCOLATE DECADENCE.png",
+    "category": "dessert",
+    "price": "180.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea7",
+    "name": "Autumn Season Rice Bowls",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/Autumn.png",
+    "category": "salad",
+    "price": "190.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee99",
+    "name": "Deluxe Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Deluxe Cheese Burger.png",
+    "category": "pizza",
+    "price": "150.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb3",
+    "name": "Frozen Pineapple Passionfruit Lemonade",
+    "recipe": "Tropical flavors of pineapple and passionfruit blended with real diced pineapple, strawberry puree and lemonade for a refreshingly frozen, vibrant escape in a cup.",
+    "image": "/images/recipes/drinks/Pineapple Passion Fruit.png",
+    "category": "drink",
+    "price": "180.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb5",
+    "name": "Peppermint Hot Chocolate",
+    "recipe": "A big welcome back to our classic holiday hot chocolate—lovingly made with chocolaty mocha sauce, peppermint-flavored syrup and steamed milk and sweetly topped with whipped cream and dark-chocolate curls.",
+    "image": "/images/recipes/drinks/Peppermint HotChoco.png",
+    "category": "drink",
+    "price": "210.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb6",
+    "name": "Mango Dragonfruit",
+    "recipe": "A tropical-inspired pick-me-up—crafted with a refreshing combination of sweet mango and dragonfruit flavors and hand-shaken with ice plus a scoop of real diced dragonfruit.",
+    "image": "/images/recipes/drinks/mango dragon fruit_.png",
+    "category": "drink",
+    "price": "185.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb8",
+    "name": "Iced Peppermint Mocha",
+    "recipe": "Our festive all-star Peppermint Mocha brightens the holidays: signature Espresso Roast combines with milk and ice, sweet mocha sauce and peppermint-flavored syrup, topped with whipped cream and dark-chocolate curls.",
+    "image": "/images/recipes/drinks/icedpeppermint.png",
+    "category": "drink",
+    "price": "180.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7e",
+    "name": "Pastillas De Leche",
+    "recipe": "",
+    "image": "/images/recipes/desserts/pastillas de leche.png",
+    "category": "popular",
+    "price": "155.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8b",
+    "name": "Rainbow Popsicle",
+    "recipe": "The RAINBOW PRIDE POP is the OG Pride Pop that started it all! A juice-based Ice Pop with layers of Strawberry, Orange, Mango, Green Apple, Blueberry and Grape, made with REAL fruit and fruit juices! It's a light, refreshing, treat that is loved by all! Dairy-free and Vegan-friendly!",
+    "image": "/images/recipes/desserts/rainbow pop.png",
+    "category": "dessert",
+    "price": "90.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8f",
+    "name": "Cookies and Cream Popsicle",
+    "recipe": "Cookies n' creme Ice Cream bar dipped into white chocolate and rolled in even more crushed Oreos! If You love Cookies n' Creme, this is the Ice Cream bar for you!",
+    "image": "/images/recipes/desserts/cookies n cream icream.png",
+    "category": "dessert",
+    "price": "120.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee97",
+    "name": "Double Deluxe Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Double Deluxe.png",
+    "category": "burger",
+    "price": "215.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea0",
+    "name": "Bacon Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Bacon Cheese Burger.png",
+    "category": "burger",
+    "price": "160.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea9",
+    "name": "Portobello Tempura Curry",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/tempura.png",
+    "category": "salad",
+    "price": "275.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee93",
+    "name": "Double Bacon Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Double Bacon cheese burger.png",
+    "category": "burger",
+    "price": "230.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee95",
+    "name": "MOS Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/MOS cheese burger.png",
+    "category": "burger",
+    "price": "160.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9b",
+    "name": "Teriyaki Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Teriyaki Burger.png",
+    "category": "burger",
+    "price": "215.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb7",
+    "name": "Caramel Brulée Latte",
+    "recipe": "Our signature espresso, steamed milk and rich caramel brulée sauce finished with whipped cream and a supreme topping of even more caramel brulée bits.",
+    "image": "/images/recipes/drinks/caramel brulee.png",
+    "category": "drink",
+    "price": "195.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9c",
+    "name": "Tonkatsu Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Tonkatsu Burger.png",
+    "category": "burger",
+    "price": "215.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9d",
+    "name": "Western-Style Cheese Burger",
+    "recipe": "",
+    "image": "/images/recipes/burger/Western-style chesse burger.png",
+    "category": "burger",
+    "price": "220.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeac",
+    "name": "Avocado Salmon Rice Bowl",
+    "recipe": "",
+    "image": "/images/recipes/ricebowls/salmon.png",
+    "category": "salad",
+    "price": "260.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb4",
+    "name": "Iced White Chocolate Mocha",
+    "recipe": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+    "image": "/images/recipes/drinks/icewhitechocolate mocha.png",
+    "category": "drink",
+    "price": "195.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee82",
+    "name": "Soy Garlic Chicken Rice Bowl",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/ricebowls/img1.png",
+    "category": "offered",
+    "price": "225.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb1",
+    "name": "Iced Caramel Macchiato",
+    "recipe": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+    "image": "/images/recipes/drinks/icecaramel macchiato.png",
+    "category": "drink",
+    "price": "210.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eead",
+    "name": "White Hot Chocolate",
+    "recipe": "A traditional hot chocolate beverage made with white chocolate sauce and steamed milk, topped with whipped cream.",
+    "image": "/images/recipes/drinks/whitehotchoco.png",
+    "category": "drink",
+    "price": "190.00"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeae",
+    "name": "Matcha Tea Latte",
+    "recipe": "Smooth and creamy matcha sweetened just right and served with steamed milk. This favorite will transport your senses to pure green delight.",
+    "image": "/images/recipes/drinks/matchatea.png",
+    "category": "drink",
+    "price": "180.00"
+  }
+]
